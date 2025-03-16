@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Dancing Baby Memecoin</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <header>
+        <h1>Welcome to Dancing Baby Memecoin</h1>
+    </header>
+    <main>
+        <img src="assets/dancing-baby.gif" alt="Dancing Baby">
+        <p>The OG meme returns to take over crypto!</p>
+    </main>
+</body>
+</html>
